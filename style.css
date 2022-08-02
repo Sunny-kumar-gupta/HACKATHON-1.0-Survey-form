@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1637580679264-d9b13ab94c57?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#survey-form{
+    background-color: rgb(27, 27, 37);
+    margin: 10px 100px 10px 100px;
+    color: white;
+    font-family: 'poppins',sans-serif;
+    opacity: 80%;
+    height: 900px;
+}
+.form-group{
+    margin: 20px 10px 10px 30px;
+}
+.form-control{
+    width: 400px;
+}
+.input-checkbox{
+    font-size: 1px;
+}
+.submit-class{
+    width: 400px;
+    background-color: rgb(23, 244, 23);
+    color: white;
+    text-align: center;
+    margin-left: 30px;
+    border-color: white;
+}
+.header{
+    text-align: center;
+    color: white;
+}
+
